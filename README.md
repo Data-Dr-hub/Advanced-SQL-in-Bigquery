@@ -1,6 +1,6 @@
 # Advanced-SQL-in-Bigquery
-![](images.png)
-This is one of the tasking projects I did during my training at [Turing College](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjCiOD22JCIAxWVllAGHWpnLsEYABAAGgJkZw&co=1&ase=2&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBotSHFAQ4ycCQsgFWc_BLqffpJE7djg7oxJRvH9Lk-d737VxQ7xKzvsaApw7EALw_wcB&ohost=www.google.com&cid=CAESVeD26E7GlHarmFCyqmd4isFRidbRZhPORDsHLJJw8MbN4dkZP-1awOj1Hie36TIuzJxXctWHO5Snfpg-P5O8hpyEkVwgdFH_w0SMxSGGvy4VaRcVaFc&sig=AOD64_3beaXtrGfc2vnnLPuslcnOUHLd-Q&q&nis=4&adurl&ved=2ahUKEwjuytn22JCIAxVSQkEAHTvyJfgQ0Qx6BAgKEAE)
+
+This is one of the most tasking projects I did during my Post Graduate Diploma at Turing College.
 
 The database is the Adventureworks Database and the sql code was written in **BigQuery**.
 The project include concepts like: CTEs, Subqueries, Logical Reasoning, and Critical Thinking.
@@ -21,7 +21,6 @@ _Hint: Few customers have multiple addresses, to avoid duplicate data I took the
 **1.2** Business finds the original query valuable to analyze customers and now want to get the data from the first query for the top 200 customers with the highest total amount (with tax) who have not ordered for the last 365 days.
 
 **1.3** Building on query 1.1, I created a new column in the view that marks active & inactive customers based on whether they have ordered anything during the last 365 days.
-![images](https://github.com/user-attachments/assets/a9ae462a-2c27-4dfc-993d-60d4491707bf)
 
 **1.4** Business would like to extract data on all active customers from North America. Only customers that have either ordered no less than 2500 in total amount (with Tax) or ordered 5 + times should be presented.
 
